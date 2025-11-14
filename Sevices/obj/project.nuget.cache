@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VioZAXL8VQE=",
+  "success": true,
+  "projectFilePath": "M:\\Api\\WebAopiShop\\Sevices\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\215804253\\.nuget\\packages\\zxcvbn-core\\7.0.92\\zxcvbn-core.7.0.92.nupkg.sha512"
+  ],
+  "logs": []
+}

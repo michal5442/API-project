@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\Api\\WebAopiShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|m:\\api\\webaopishop\\sevices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|m:\\api\\webaopishop\\sevices\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|m:\\api\\webaopishop\\webaopishop\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|m:\\api\\webaopishop\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|m:\\api\\webaopishop\\webaopishop\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|m:\\api\\webaopishop\\repositories\\passwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628B2BD-B86B-4169-8135-4A87211B86F6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\passwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|m:\\api\\webaopishop\\webaopishop\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|m:\\api\\webaopishop\\sevices\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8E769F5-CDDD-41C7-A555-489ADD557551}|Sevices\\Services.csproj|solutionrelative:sevices\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|m:\\api\\webaopishop\\webaopishop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|m:\\api\\webaopishop\\webaopishop\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|m:\\api\\webaopishop\\webaopishop\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|m:\\api\\webaopishop\\entities\\checkpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|solutionrelative:entities\\checkpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|m:\\api\\webaopishop\\entities\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A157D173-CAB1-46A7-99DC-D6CFE4D0C850}|Entities\\Entities.csproj|solutionrelative:entities\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|m:\\api\\webaopishop\\webaopishop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|m:\\api\\webaopishop\\webaopishop\\webaopishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\webaopishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|m:\\api\\webaopishop\\webaopishop\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|m:\\api\\webaopishop\\webaopishop\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{222FF2EA-8B45-481F-963F-8FB3F8D442D2}|WebAopiShop\\WebAopiShop.csproj|solutionrelative:webaopishop\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "script.js",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\WebAopiShop\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "WebAopiShop\\wwwroot\\script.js",
+              "ToolTip": "M:\\Api\\WebAopiShop\\WebAopiShop\\wwwroot\\script.js",
+              "RelativeToolTip": "WebAopiShop\\wwwroot\\script.js",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwEUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-14T12:19:11.777Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\WebAopiShop\\Program.cs",
+              "RelativeDocumentMoniker": "WebAopiShop\\Program.cs",
+              "ToolTip": "M:\\Api\\WebAopiShop\\WebAopiShop\\Program.cs",
+              "RelativeToolTip": "WebAopiShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:39:52.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\WebAopiShop\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebAopiShop\\Controllers\\UsersController.cs",
+              "ToolTip": "M:\\Api\\WebAopiShop\\WebAopiShop\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebAopiShop\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:41:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordController.cs",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\WebAopiShop\\Controllers\\PasswordController.cs",
+              "RelativeDocumentMoniker": "WebAopiShop\\Controllers\\PasswordController.cs",
+              "ToolTip": "M:\\Api\\WebAopiShop\\WebAopiShop\\Controllers\\PasswordController.cs",
+              "RelativeToolTip": "WebAopiShop\\Controllers\\PasswordController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:27:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\Sevices\\PasswordService.cs",
+              "RelativeDocumentMoniker": "Sevices\\PasswordService.cs",
+              "ToolTip": "M:\\Api\\WebAopiShop\\Sevices\\PasswordService.cs",
+              "RelativeToolTip": "Sevices\\PasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:23:58.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\Sevices\\UserService.cs",
+              "RelativeDocumentMoniker": "Sevices\\UserService.cs",
+              "ToolTip": "M:\\Api\\WebAopiShop\\Sevices\\UserService.cs",
+              "RelativeToolTip": "Sevices\\UserService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:31:10.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "M:\\Api\\WebAopiShop\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:27:28.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\WebAopiShop\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebAopiShop\\wwwroot\\index.html",
+              "ToolTip": "M:\\Api\\WebAopiShop\\WebAopiShop\\wwwroot\\index.html",
+              "RelativeToolTip": "WebAopiShop\\wwwroot\\index.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-10T16:32:25.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\Sevices\\Services.csproj",
+              "RelativeDocumentMoniker": "Sevices\\Services.csproj",
+              "ToolTip": "M:\\Api\\WebAopiShop\\Sevices\\Services.csproj",
+              "RelativeToolTip": "Sevices\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T12:22:30.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordRepository.cs",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\Repositories\\PasswordRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PasswordRepository.cs",
+              "ToolTip": "M:\\Api\\WebAopiShop\\Repositories\\PasswordRepository.cs",
+              "RelativeToolTip": "Repositories\\PasswordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:23:27.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "update.html",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\WebAopiShop\\wwwroot\\update.html",
+              "RelativeDocumentMoniker": "WebAopiShop\\wwwroot\\update.html",
+              "ToolTip": "M:\\Api\\WebAopiShop\\WebAopiShop\\wwwroot\\update.html",
+              "RelativeToolTip": "WebAopiShop\\wwwroot\\update.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-26T16:11:06.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "update.js",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\WebAopiShop\\wwwroot\\update.js",
+              "RelativeDocumentMoniker": "WebAopiShop\\wwwroot\\update.js",
+              "ToolTip": "M:\\Api\\WebAopiShop\\WebAopiShop\\wwwroot\\update.js",
+              "RelativeToolTip": "WebAopiShop\\wwwroot\\update.js",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-26T16:11:38.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "users.txt",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\WebAopiShop\\users.txt",
+              "RelativeDocumentMoniker": "WebAopiShop\\users.txt",
+              "ToolTip": "M:\\Api\\WebAopiShop\\WebAopiShop\\users.txt",
+              "RelativeToolTip": "WebAopiShop\\users.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-26T17:03:09.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\Entities\\Entities.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities.cs",
+              "ToolTip": "M:\\Api\\WebAopiShop\\Entities\\Entities.cs",
+              "RelativeToolTip": "Entities\\Entities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:41:53.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckPassword.cs",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\Entities\\CheckPassword.cs",
+              "RelativeDocumentMoniker": "Entities\\CheckPassword.cs",
+              "ToolTip": "M:\\Api\\WebAopiShop\\Entities\\CheckPassword.cs",
+              "RelativeToolTip": "Entities\\CheckPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:21:49.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebAopiShop.csproj",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\WebAopiShop\\WebAopiShop.csproj",
+              "RelativeDocumentMoniker": "WebAopiShop\\WebAopiShop.csproj",
+              "ToolTip": "M:\\Api\\WebAopiShop\\WebAopiShop\\WebAopiShop.csproj",
+              "RelativeToolTip": "WebAopiShop\\WebAopiShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T11:40:07.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "M:\\Api\\WebAopiShop\\WebAopiShop\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAopiShop\\Properties\\launchSettings.json",
+              "ToolTip": "M:\\Api\\WebAopiShop\\WebAopiShop\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAopiShop\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T16:13:54.648Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

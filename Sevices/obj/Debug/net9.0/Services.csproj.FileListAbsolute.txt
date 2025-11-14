@@ -1,0 +1,17 @@
+M:\Api\WebAopiShop\Sevices\bin\Debug\net9.0\Services.deps.json
+M:\Api\WebAopiShop\Sevices\bin\Debug\net9.0\Services.dll
+M:\Api\WebAopiShop\Sevices\bin\Debug\net9.0\Services.pdb
+M:\Api\WebAopiShop\Sevices\bin\Debug\net9.0\Entities.dll
+M:\Api\WebAopiShop\Sevices\bin\Debug\net9.0\Repositories.dll
+M:\Api\WebAopiShop\Sevices\bin\Debug\net9.0\Repositories.pdb
+M:\Api\WebAopiShop\Sevices\bin\Debug\net9.0\Entities.pdb
+M:\Api\WebAopiShop\Sevices\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+M:\Api\WebAopiShop\Sevices\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+M:\Api\WebAopiShop\Sevices\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+M:\Api\WebAopiShop\Sevices\obj\Debug\net9.0\Services.AssemblyInfo.cs
+M:\Api\WebAopiShop\Sevices\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+M:\Api\WebAopiShop\Sevices\obj\Debug\net9.0\Services.csproj.Up2Date
+M:\Api\WebAopiShop\Sevices\obj\Debug\net9.0\Services.dll
+M:\Api\WebAopiShop\Sevices\obj\Debug\net9.0\refint\Services.dll
+M:\Api\WebAopiShop\Sevices\obj\Debug\net9.0\Services.pdb
+M:\Api\WebAopiShop\Sevices\obj\Debug\net9.0\ref\Services.dll
