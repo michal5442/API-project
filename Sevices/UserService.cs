@@ -7,8 +7,8 @@ namespace Services;
 public class UserService
     {
 
-        UserRepository repository = new UserRepository();
-        PasswordService service = new PasswordService();
+        private readonly UserRepository repository = new UserRepository();
+        private readonly PasswordService service = new PasswordService();
 
         public User GetUserById(int id) 
         { 
