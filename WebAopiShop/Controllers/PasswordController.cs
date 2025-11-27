@@ -9,7 +9,7 @@ namespace WebAopiShop.Controllers
     [ApiController]
     public class PasswordController : Controller
     {
-        PasswordService service = new PasswordService();
+        private readonly PasswordService service = new PasswordService();
 
         [HttpPost]
         public ActionResult<CheckPassword> CheckPass([FromBody] string pass)

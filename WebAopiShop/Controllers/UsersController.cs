@@ -12,25 +12,19 @@ namespace WebApiShop.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        string filePath = "users.txt";
-        UserService service = new UserService();
+        private readonly string filePath = Path.Combine(Directory.GetCurrentDirectory(), "users.txt");
+        private readonly UserService _userService = new UserService();
 
-        // GET: api/<UsersController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-
-        }
+        
 
         // GET api/<UsersController>/5
         [HttpGet("{id}")]
         public ActionResult<User> Get(int id)
         {
-            User user = service.GetUserById(id);
+            User user = _userService.GetUserById(id);
             if (user == null)
             {
-                return NoContent();
+                return NotFound();
             }
             return Ok(user);
         }
@@ -39,10 +33,10 @@ namespace WebApiShop.Controllers
         [HttpPost("Login")]
         public ActionResult<User> Login([FromBody] ExistUser val)
         {
-            User user = service.LogIn(val);
+            User user = _userService.LogIn(val);
             if (user == null)
             {
-                return NoContent();
+                return Unauthorized();
             }
             return Ok(user);
         }
@@ -50,7 +44,7 @@ namespace WebApiShop.Controllers
         [HttpPost("Register")]
         public ActionResult<User> Register([FromBody] User val)
         {
-            User user = service.AddUser(val);
+            User user = _userService.AddUser(val);
             if (user == null)
             {
                 return BadRequest("Password too weak");
@@ -61,15 +55,8 @@ namespace WebApiShop.Controllers
 
         // PUT api/<UsersController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] User value)
+        public IActionResult Put(int id, [FromBody] User value)
         {
-            service.UpdateUser(value,id);
-        }
-
-        // DELETE api/<UsersController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
-    }
-}
+            _userService.UpdateUser(value,id);
+            return NoContent();
+        }\n    }\n}
